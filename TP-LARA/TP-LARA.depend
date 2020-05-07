@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1588879381 source:c:\users\admin\desktop\c++\tp-lara\main.cpp
+	<iostream>
+	<stdlib.h>
+	"rlutil.h"
+	<string.h>
+	<cstdlib>
+	<cstdio>
+	"prototipo.h"
+	"menu_validaciones.h"
+	"funciones.h"
+
+1587830336 c:\users\admin\desktop\c++\tp-lara\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1588879351 c:\users\admin\desktop\c++\tp-lara\prototipo.h
+
+1588879351 c:\users\admin\desktop\c++\tp-lara\menu_validaciones.h
+
+1588879520 c:\users\admin\desktop\c++\tp-lara\funciones.h
+
